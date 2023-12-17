@@ -100,8 +100,8 @@ export default function Home() {
               data-atropos-offset="5"
               className="w-full h-48 p-8 shadow-[5px_5px_0px_0px_rgba(000,00,000)] bg-[#A0CCD3] rounded-lg"
             >
-              Hello, I'm Enka, also known as Rama or Aul or something else. So,
-              what's the purpose of this website? No one knows, I don't even know,
+              Hello, I&apos;m Enka, also known as Rama or Aul or something else. So,
+              what&apos;s the purpose of this website? No one knows, I don&apos;t even know,
               and no one will ever know ...
             </div>
             <div
