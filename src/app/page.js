@@ -56,7 +56,7 @@ export default function Home() {
                 data-atropos-offset="5"
                 className="hidden md:flex h-full rounded-lg  shadow-[5px_5px_0px_0px_rgba(000,00,000)] bg-[#A0CCD3]"
               >
-                tes
+                
               </div>
 
               <div className="flex h-full gap-5 ">
